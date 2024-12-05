@@ -20,6 +20,16 @@ annual reports  212         50
 Gold summaries  424         100
 
 ## Reference
+```
+@inproceedings{fns2023,
+  title={The Financial Narrative Summarisation Shared Task (FNS 2023)},
+  author={Zavitsanos, Elias and Kosmopoulos, Aris and Giannakopoulos, George and Litvak, Marina and Carbajo-Coronado, Blanca and Moreno-Sandoval, Antonio and El-Haj, Mo},
+  booktitle={2023 IEEE International Conference on Big Data (BigData)},
+  pages={2890--2896},
+  year={2023},
+  organization={IEEE}
+}
+```
 
 ## Licence
 Creative Commons Attribution 4.0
